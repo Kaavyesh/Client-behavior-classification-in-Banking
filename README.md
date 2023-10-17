@@ -1,7 +1,7 @@
 # Client-behavior-classification-in-Banking
 This project focuses on using machine learning techniques to classify and understand client behavior in the banking sector. The aim is to categorize and analyze the behavior of clients, enabling banks to make more informed decisions about whom to provide banking facilities and what credit limits to offer. 
 
-Dataset
+#Dataset
 The dataset used in this analysis contains the following columns:
 age: Represents the age of the individual.
 
@@ -45,7 +45,7 @@ nr.employed: Indicates the number of employees.
 
 y: This column is a target variable, where 'yes' and 'no' indicate the outcome of interest.
 
-Analysis Steps
+#Analysis Steps
 The project involves the following key steps:
 
 Data Preprocessing and Feature Selection Steps:
@@ -78,11 +78,11 @@ Print Model Information:
 
 The code displays information about the shapes of training and testing data.
 
-Usage
+#Usage
 To run the analysis or reproduce the results, follow the steps outlined in the Jupyter notebooks provided in the notebooks/ directory. You may need to install required Python libraries using pip as mentioned in the notebooks.
 
-Contributing
+#Contributing
 If you have suggestions, improvements, or want to contribute to this project, please feel free to open an issue or submit a pull request.
 
-License
+#License
 This project is licensed under the MIT License. See the LICENSE file for details.
